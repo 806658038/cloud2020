@@ -83,7 +83,9 @@ public class PaymentController {
 
     public void demo(){}
 
+    public void demo2(){
 
+    }
 
 
 }
