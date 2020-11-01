@@ -12,4 +12,9 @@ public class ConfigCenterMain3344 {
         SpringApplication.run(ConfigCenterMain3344.class, args);
     }
 
+    public void test(){
+        System.out.println("git");
+    }
+
+
 }
