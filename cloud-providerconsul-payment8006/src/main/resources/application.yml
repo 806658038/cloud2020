@@ -1,0 +1,16 @@
+###consul服务端口号
+server:
+  port: 8006
+
+spring:
+  application:
+    name: consul-provider-payment
+
+####consul注册中心地址
+  cloud:
+    consul:
+      host: 192.168.63.130  # linux 的ip地址  因为是在linux启动的 consul
+      port: 8500
+      discovery:
+        hostname: 172.16.0.201  # 本机的ip地址
+        service-name: ${spring.application.name}
