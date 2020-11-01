@@ -22,4 +22,11 @@ public class ConfigClientController {
         return configInfo;
     }
 
+
+    public String demo()
+    {
+        System.out.printLn("hi");
+    }
+
+
 }
