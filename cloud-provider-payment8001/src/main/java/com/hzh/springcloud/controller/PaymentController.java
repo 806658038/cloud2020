@@ -81,11 +81,4 @@ public class PaymentController {
         return serverPort;
     }
 
-    public void demo(){}
-
-    public void demo2(){
-
-    }
-
-
 }
