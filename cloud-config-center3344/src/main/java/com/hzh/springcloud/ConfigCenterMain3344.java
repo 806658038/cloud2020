@@ -13,8 +13,11 @@ public class ConfigCenterMain3344 {
     }
 
     public void test(){
-        System.out.println("git");
+        System.out.println("this is a git test");
     }
+
+    
+
 
 
 }
