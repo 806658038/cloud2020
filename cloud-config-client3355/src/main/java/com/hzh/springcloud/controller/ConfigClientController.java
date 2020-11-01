@@ -23,10 +23,4 @@ public class ConfigClientController {
     }
 
 
-    public String demo()
-    {
-        System.out.printLn("hi");
-    }
-
-
 }
