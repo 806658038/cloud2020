@@ -47,4 +47,11 @@ public class PaymentController {
         return serverPort;
     }
 
+    @GetMapping(value = "/payment/l")
+    public String getPaymen() {
+        return serverPort;
+    }
+
+
+
 }
