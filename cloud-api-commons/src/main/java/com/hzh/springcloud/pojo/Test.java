@@ -12,14 +12,6 @@ public class Test {
 
     }
 
-    public void d3(){
-
-    }
-
-    public void d4(){
-
-    }
-
     public void d5(){
 
     }
